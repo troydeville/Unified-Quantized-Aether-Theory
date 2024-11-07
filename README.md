@@ -1,5 +1,3 @@
-© 2024 Troy Shelton Noah Deville. Licensed under GPL v3.
-
 # Unified Quantized Aether Theory (UQAT)
 
 ---
