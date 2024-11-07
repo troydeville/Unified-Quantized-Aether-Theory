@@ -1,3 +1,5 @@
+© 2024 Troy Shelton Noah Deville. Licensed under GPL v3.
+
 # Unified Quantized Aether Theory (UQAT)
 
 ---
@@ -5,6 +7,28 @@
 ## Overview
 
 The **Unified Quantized Aether Theory (UQAT)** redefines the universe as a structured, quantized aether, an active medium permeated by fundamental constants that govern mass, charge, gravity, and space itself. Unlike traditional physics, which often treats space as a vacuum, **UQAT** proposes a dynamic aether with exact, intrinsic values that shape every interaction within it. This approach challenges established concepts, positioning **UQAT** as a new paradigm for understanding and unifying fundamental forces.
+
+---
+
+## Getting Started
+
+The following resources may help at diving deeper into **UQAT** and its applications:
+
+1. **[Theory Overview](theory_overview.md)**: Detailed explanations of UQAT’s theoretical foundation, including its redefined constants, equations, and fundamental relationships.
+
+2. **[Constants.md](constants.md)**: A comprehensive list of fundamental constants in **UQAT**, each defined with exact values.
+
+3. **[Derivations.md](derivations.md)**: **UQAT**-*step-by-step* derivations of key equations and relationships.
+
+4. **[Findings.md](findings.md)**: Acceleration Relationships and Aether Interactions.
+
+5. **[Applications.md](applications.md)**: Explore potential use cases and experimental setups for **UQAT**, from resonance-based propulsion to energy storage and beyond.
+
+6. **[AQMT UQAT Transition.md](aqmt_uqat_transitioning.md)**: To align AQMT’s original concepts with the updates in UQAT, a list of steps to clarify and advance **UQAT** further. 
+
+---
+
+## < **[Todo List](TODO.md)**
 
 ---
 
@@ -34,43 +58,13 @@ The **Unified Quantized Aether Theory (UQAT)** redefines the universe as a struc
 
 ---
 
-## Recommended Checklist for Transitioning AQMT Concepts to UQAT
-
-To align AQMT’s original concepts with the updates in UQAT, here’s a list of steps that would clarify and advance the theory further:
-
-1. **Refine Geometric Identities and Constants**:
-   - [ ] Incorporate the refined definitions for constants like \( \Phi \), \( \Gamma \), and \( \Psi \) as presented in UQAT. Confirm how they are interrelated geometrically to produce consistent, quantized expressions across different scales.
-   - [ ] Verify relationships between AQMT’s “Universal Charge Area” and UQAT’s newer exact representations, adjusting units to ensure consistency within the UQAT framework.
-
-2. **Establish Exact Quantization Rules**:
-   - [ ] Reevaluate expressions for charge quantization and mass-charge ratios to ensure they match UQAT’s exact-value framework.
-   - [ ] Adapt any remaining approximations or scaling factors in AQMT equations to UQAT’s precise quantized forms, as these provide a more unified structure.
-
-3. **Standardize Frequency and Resonance Relations**:
-   - [ ] Refine the roles of the universal frequency \( \Psi \) and oscillation parameters, aligning them with exact values. Confirm resonance relationships that establish UQAT’s unified interaction model for gravity and electromagnetism.
-   - [ ] Explore resonance properties at different scales to understand how UQAT may apply to the strong and weak nuclear forces, potentially extending UQAT’s unified framework to include these interactions.
-
-4. **Update Units and Dimensions**:
-   - [ ] Transition AQMT’s units, such as mass and charge dimensions, into the UQAT framework. For example, verify that constants like \( \mu_0 \) and \( \epsilon_0 \) carry the correct dimensional units per UQAT’s refined equations.
-   - [ ] Ensure any geometric constants match UQAT’s units (e.g., \(\text{m}/\text{H}\) for \( \Phi \)), solidifying the theory’s internal coherence.
-
-5. **Consolidate Theoretical Foundations with Geometric and Quantized Identities**:
-   - [ ] Formally document each constant and identity as per UQAT’s framework, consolidating any remaining AQMT variables that were not quantified geometrically.
-   - [ ] Establish identities that unify UQAT’s constants, linking mass, charge, and space-time within the quantized medium. This can include verifying that expressions such as \( G \), \( h \), and \( e \) in UQAT satisfy the same identity requirements as AQMT but with improved accuracy.
-
-6. **Validate UQAT with Experimental Predictions and Observations**:
-   - [ ] Revisit AQMT’s predictions about gravitational waves, black holes, and particle interactions, refining them under UQAT. Aim to incorporate testable hypotheses that arise from UQAT’s unified medium, enabling observational validation.
-   - [ ] Apply UQAT’s resonance-based approach to specific experimental contexts, including potential applications in energy storage, resonance-based propulsion, and field manipulation.
-
----
-
 # Goals and Objectives for Unified Quantized Aether Theory (**UQAT**)
 
 ## Objective: Unifying Electromagnetism and Gravity
 
 The original aim of **UQAT** was to create a unified framework connecting electromagnetism and gravity. Through exact values and decomposing existing constants, the concept of an **active, quantized vacuum medium** naturally emerged. Although the endeavor started without a belief in the aether, the development of **UQAT** revealed a structured, geometric medium that governs universal interactions.
 
-### Checklist of Goals
+## Goals
 
 ---
 
@@ -111,24 +105,6 @@ The original aim of **UQAT** was to create a unified framework connecting electr
    - [ ] **Create Open-Source **UQAT** Framework on GitHub**: Develop an open-source repository with formulas, constants, findings, and applications, enabling others to contribute to or test **UQAT** experimentally.
 --- 
 
-## Getting Started
-
-The following resources can help you dive deeper into **UQAT** and its applications:
-
-> **[Theory Overview](theory_overview.md)**: Detailed explanations of UQAT’s theoretical foundation, including its redefined constants, equations, and fundamental relationships.
-
-> ###### **[Constants.md](constants.md)**: A comprehensive list of fundamental constants in **UQAT**, each defined with exact values.
-
-> **[Derivations.md](derivations.md)**: **UQAT**-*step-by-step* derivations of key equations and relationships.
-
-> **[Findings.md](findings.md)**: Acceleration Relationships and Aether Interactions.
-
-> **[Applications.md](applications.md)**: Explore potential use cases and experimental setups for **UQAT**, from resonance-based propulsion to energy storage and beyond.
-
-> **[AQMT UQAT Transition.md](aqmt_uqat_transitioning.md)**: To align AQMT’s original concepts with the updates in UQAT, a list of steps to clarify and advance **UQAT** further. 
-
----
-
 # License
 **Unified Quantized Aether Theory** is licensed under GPL v3. See the [LICENSE](https://github.com/troydeville/Unified-Quantized-Aether-Theory/blob/ed9b9a48aa0760e8207f5ed968757d3918bebec4/LICENSE) file for details.
 
@@ -137,3 +113,5 @@ The following resources can help you dive deeper into **UQAT** and its applicati
 # Disclaimer
 **Unified Quantized Aether Theory (UQAT)** is provided "as-is" without any warranty, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. **The creators or contributors are not liable for any claim, damages, or other liability arising from the use of **UQAT****.
 
+---
+© 2024 Troy Shelton Noah Deville. Licensed under GPL v3.

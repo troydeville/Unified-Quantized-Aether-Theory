@@ -1,3 +1,15 @@
+<  **[UQAT](../README.md)**
+
+<!-- TODO List for Proposals.md -->
+- [ ] Describe proposed experiments to validate UQAT predictions.
+- [ ] Include detailed objectives, methods, and expected outcomes for each experiment.
+- [ ] List necessary equipment or setups for each proposed test.
+- [ ] Explain how each experiment would support or challenge UQAT principles.
+- [ ] Prioritize experiments based on feasibility and impact on the theory.
+- [ ] Proofread for clarity and scientific rigor in descriptions.
+
+---
+
 # Experimental Proposals for UQAT
 
 ## Overview
