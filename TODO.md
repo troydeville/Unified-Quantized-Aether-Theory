@@ -1,11 +1,11 @@
-### **Revised To-Do List for Unified Quantized Aether Theory (UQAT)**
+### **Unified Quantized Aether Theory (UQAT) Todos**
 
 ---
 
-#### **1. Documentation of Validation and Key Equations**
+#### **1. Documentation and Validation of Key Equations**
    - [ ] **Document Validation Steps**:
        - Include a detailed account of the Mathematica validation steps in `VALIDATION.md` or within annotated code cells, explaining how each constant, identity, and derived relationship was verified.
-       - Add explanations for each verified equation, specifying how they align with empirical constants or physical intuition.
+       - Add explanations for each verified equation, specifying how they align with empirical constants or theoretical expectations.
 
    - [ ] **Define Core Equations and Functions**:
        - Organize all primary equations (like the acceleration function \( a_{\tau} \) and identities) in a **Key Equations** section in the README or as a dedicated markdown file.

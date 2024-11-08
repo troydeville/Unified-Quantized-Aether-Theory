@@ -1,15 +1,6 @@
 <  **[UQAT](../../README.md)**
 > < **[docs](../Introduction.md)**
 
-
-<!-- TODO List for Key_Equations.md -->
-- [ ] Include derivations for each primary equation within UQAT.
-- [ ] Explain each step in the derivations to aid reader comprehension.
-- [ ] Define all variables and constants used in equations.
-- [ ] Link equations back to their associated constants in `Core_Constants.md`.
-- [ ] Add examples or applications of equations where possible (e.g., gravitational constant).
-- [ ] Proofread for clarity and accuracy in all mathematical expressions.
-
 # Key Equations
 
 This file provides step-by-step derivations of key equations and relationships within the Unified Quantized Aether Theory.
