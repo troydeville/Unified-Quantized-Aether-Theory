@@ -12,9 +12,12 @@ This file contains ongoing research notes, observations, and hypotheses related 
 - **Fine Structure Constant as a Bridge**: The fine structure constant $( \alpha )$ appears as a recurring element, linking various forces within the Active Medium.
 - **Gravitational Constant Derivation**: $( G )$ is expressed in terms of gravitational coupling and spatial properties of the Aether.
 
-## Repository Structure
+---
 
-- **docs/**: Core theory documents, definitions, and theoretical interpretations.
-- **derivations/**: Detailed mathematical derivations of expressions used in UQAT.
-- **journal/**: Ongoing research notes and ideas related to UQAT.
-- **examples/**: Example calculations applying UQAT principles to real-world cases.
+$$
+\Phi=\frac{10000000}{\pi }
+$$
+$$\text{$\Phi$ measured in $meters$/$Henry$} $$
+
+
+---

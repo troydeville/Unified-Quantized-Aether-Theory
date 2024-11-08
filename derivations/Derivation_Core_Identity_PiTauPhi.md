@@ -1,3 +1,4 @@
+*Incomplete*
 # Derivation of Core Identity:
 ##### $$\frac{\pi \tau \Phi}{e^2} = 1$$
 

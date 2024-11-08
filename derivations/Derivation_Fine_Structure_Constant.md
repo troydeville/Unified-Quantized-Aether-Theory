@@ -1,3 +1,4 @@
+*Incomplete*
 # Derivation Involving the Fine Structure Constant \( \alpha \)
 
 ## Overview

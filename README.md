@@ -6,6 +6,16 @@ Inspired by concepts from Tesla’s Dynamic Theory of Gravity, UQAT suggests tha
 
 ---
 
+$$\text{E}(m) = mc^2 = \frac{e^2}{4 \pi \epsilon_o}  \frac{m}{\tau}$$
+
+> $m$: The mass of a body.
+$c$: The speed of light.
+$e$: The elementary charge.
+$\epsilon_o$: The permittivity of the medium.
+$\tau$: [The distributed mass-charge space of the medium.](docs/Theory/Core_Constants.md)
+
+---
+
 ## Getting Started
 
 Explore the following resources for deeper insights into **UQAT**:
@@ -25,27 +35,7 @@ Explore the following resources for deeper insights into **UQAT**:
 - **derivations/**: Detailed mathematical derivations for UQAT expressions.
 - **journal/**: Research notes and ideas.
 - **examples/**: Sample calculations using UQAT principles.
-
----
-
-## Goals
-
-### 1. **Theoretical Foundations**
-   - Define UQAT constants and validate key relationships among mass, charge, and space within the medium.
-   - Reformulate traditional constants (e.g., \( G \), \( h \), \( c \)) within UQAT’s quantized structure.
-   - Validate identities (e.g., \( \frac{e^2 \mu_o}{4 \pi \tau} = 1 \)) that unify UQAT's core principles.
-
-### 2. **Geometric and Resonance Properties**
-   - Establish the medium’s geometry and natural resonance frequencies.
-   - Define scales for spatial and temporal resonance and their roles in field interactions.
-
-### 3. **Experimental and Practical Goals**
-   - Prototype a resonance-based propulsion system within the Active Medium.
-   - Explore high-density energy storage and inertial manipulation methods based on UQAT.
-
-### 4. **Theory Expansion and Validation**
-   - Derive additional constants within UQAT and compare with empirical data.
-   - Document findings to support the open-source UQAT framework.
+- **models/**: Simulations.
 
 ---
 
@@ -60,5 +50,3 @@ Explore the following resources for deeper insights into **UQAT**:
 ---
 
 © 2024 Troy Shelton Noah Deville. Licensed under GPL v3.
-
----

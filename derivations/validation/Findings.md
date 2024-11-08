@@ -7,7 +7,7 @@
 The **UQAT** framework introduces an expression for acceleration based on mass, charge, and distance from an energy source within the quantized aether:
 
 $$
-a_{\tau} = \frac{M_{\tau}^2}{R_{\tau} Q_{\tau}^2} \alpha_G \; \text{m/s}^2
+a_{\tau} = \frac{M^2}{R Q^2} \alpha_G \; \text{m/s}^2
 $$
 
 Where:
@@ -86,9 +86,9 @@ These identities could be highlighted as **fundamental relationships** that demo
 
 In the Unified Quantized Aether Theory (UQAT), space is conceptualized as an Active Medium where spatial properties are not arbitrary but emerge from interdependent relationships among fundamental constants. This document presents two key expressions that define spatial constants in terms of core quantum, electromagnetic, and gravitational constants within UQAT.
 
-### Expression for Spatial Constant ￼
+### Expression for Spatial Constant 
 
-The spatial constant ￼ within UQAT can be derived as follows:
+The spatial constant  within UQAT can be derived as follows:
 $$
 \frac{\pi  \alpha  h}{e^2 \mu_o \Psi }=\Gamma
 $$
@@ -101,17 +101,17 @@ Where:
 
 Interpretation of $\Gamma$
 
-This expression for $\Gamma$ suggests that spatial dimensions in the Active Medium are defined by the interplay of quantum and electromagnetic constants, specifically through the fine structure constant ￼. Thus, $\Gamma$ represents a fundamental spatial scale within UQAT, where spatial properties are quantized and interdependent with electromagnetic interactions in the Active Medium.
+This expression for $\Gamma$ suggests that spatial dimensions in the Active Medium are defined by the interplay of quantum and electromagnetic constants, specifically through the fine structure constant . Thus, $\Gamma$ represents a fundamental spatial scale within UQAT, where spatial properties are quantized and interdependent with electromagnetic interactions in the Active Medium.
 
 Gravitational Coupling and Residual Spatial Scale
 
-A more complex relationship that incorporates the gravitational coupling constant ￼ is given by:
+A more complex relationship that incorporates the gravitational coupling constant  is given by:
 
-￼
+
 
 where:
 
-	•	￼: Gravitational coupling constant within UQAT, linking mass and gravitational effects in the medium.
+	•	: Gravitational coupling constant within UQAT, linking mass and gravitational effects in the medium.
 	•	Other constants are as previously defined.
 
 Interpretation of the Gravitational Spatial Scale
@@ -121,8 +121,8 @@ This expression yields a residual dimension of meters (m), indicating a characte
 Implications
 
 	1.	Interdependency of Spatial and Gravitational Properties: This residual length suggests that gravitational interactions in UQAT inherently involve spatial scales that differ from those purely defined by electromagnetic interactions. This interpretation aligns with the theory’s vision of gravity as an emergent property of the Active Medium.
-	2.	Unified Spatial Framework: The expressions for ￼ and the residual gravitational scale indicate that UQAT unifies spatial structure by deriving spatial properties from fundamental constants. This framework suggests that both electromagnetic and gravitational interactions are tied to the quantized spatial properties of the Aether.
+	2.	Unified Spatial Framework: The expressions for  and the residual gravitational scale indicate that UQAT unifies spatial structure by deriving spatial properties from fundamental constants. This framework suggests that both electromagnetic and gravitational interactions are tied to the quantized spatial properties of the Aether.
 
 Summary
 
-The expressions for ￼ and the residual gravitational length scale provide a coherent framework for understanding spatial properties in UQAT. By defining spatial constants in terms of fundamental interactions, UQAT reinforces the idea that space within the Active Medium is quantized and structured. These findings position UQAT as a unified theory where spatial, gravitational, and electromagnetic properties are intrinsically connected through the quantized structure of the Aether.
+The expressions for  and the residual gravitational length scale provide a coherent framework for understanding spatial properties in UQAT. By defining spatial constants in terms of fundamental interactions, UQAT reinforces the idea that space within the Active Medium is quantized and structured. These findings position UQAT as a unified theory where spatial, gravitational, and electromagnetic properties are intrinsically connected through the quantized structure of the Aether.
