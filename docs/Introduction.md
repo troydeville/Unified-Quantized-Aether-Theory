@@ -1,6 +1,15 @@
 < **[UQAT](../README.md)**
 
-# Introduction
+# Introduction to Unified Quantized Aether Theory (UQAT)
+
+The **Unified Quantized Aether Theory (UQAT)** reimagines space as an **Active Medium** that possesses inherent energy and fundamental resonance. UQAT proposes that forces traditionally considered separate—electromagnetism, gravity, and nuclear forces—arise from interactions within this quantized medium. This document provides an overview of the theory’s motivation, goals, and basic assumptions.
+
+UQAT’s framework introduces core constants that govern interactions within the medium, such as:
+- **Frequency Constant ($( \Psi )$)**
+- **Spatial Constant ($( \Gamma )$)**
+- **Limit Constant ($( \Phi )$)**
+
+Each of these constants plays a key role in defining the behavior of forces within the Active Medium.
 
 ---
 
@@ -9,7 +18,6 @@
 The **Unified Quantized Aether Theory (UQAT)** seeks to unify electromagnetism and gravity through a quantized, structured aether. UQAT redefines space as an active medium, where constants are precise, and forces emerge from inherent properties of this medium.
 
 ---
-
 ## Core Concepts
 
 1. **Quantized Aether**: 

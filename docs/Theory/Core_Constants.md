@@ -1,24 +1,23 @@
 <  **[UQAT](../../README.md)**
 > < **[docs](../Introduction.md)**
 
-
----
-#### *UQAT Core Constant Todos*
-<!-- TODO List for Core_Constants.md -->
-- [ ] List each core constant used in UQAT, including symbols, values, and units.
-- [ ] Provide a clear explanation for each constant’s role in the theory.
-- [ ] Add derivations or equations that define each constant's relationship to others (if relevant).
-- [ ] Cross-reference constants with sections in `Key_Equations.md` and `Overview.md`.
-- [ ] Ensure all mathematical expressions are formatted correctly.
----
 # Unified Quantized Aether Theory Core Constants
 ## Abstract
 The Unified Quantized Aether Theory (UQAT) introduces a framework that unifies the fundamental forces—electromagnetism, gravity, the strong nuclear force, and the weak nuclear force—by redefining space as an **Active Medium** filled with quantized energy. UQAT builds on concepts inspired by Tesla's Dynamic Theory of Gravity, suggesting that the vacuum of space is not empty but is an active, energy-filled medium through which all interactions occur.
 
+---
+## Abstract
+
+The Unified Quantized Aether Theory (UQAT) presents a novel framework for understanding the universe by redefining space as an Active Medium filled with quantized energy. Building upon fundamental constants and inspired by concepts similar to Tesla’s Dynamic Theory of Gravity, UQAT proposes that the vacuum of space is not an empty void but an energy-rich, resonant medium through which all physical interactions occur. By decomposing established physical constants—such as the fine structure constant, Planck’s constant, and the gravitational constant—into their most representative elements, UQAT reveals intrinsic relationships between these constants, offering a unified basis for electromagnetism, gravity, the strong nuclear force, and the weak nuclear force.
+
+At the core of UQAT lies the Frequency Constant of the Active Medium $( \Psi )$, which defines the fundamental oscillatory behavior within this quantized structure and enables new interpretations of established physical phenomena as resonant interactions. This approach reveals recurring structural patterns among constants and interactions, suggesting that forces traditionally viewed as separate arise from a shared aetheric medium. The theory’s derived expressions for gravitational and electromagnetic relationships, as well as unique identities among constants, underscore UQAT’s potential to bridge foundational gaps in current physics. By restructuring core constants and deriving natural interrelationships, UQAT provides a coherent, quantized framework with implications for both cosmological and subatomic scales.
+
+---
+
 ## Core Constants and Parameters of the Active Medium
 
 ### Frequency Constant of the Active Medium (\( \Psi \))
-- **Symbol**: \( \Psi \)
+- **Symbol**: $(\Psi)$
 - **Expression**: \( \Psi = \frac{149896229}{\pi} \, \text{Hz} \)
 - **Description**: Represents the inherent oscillatory frequency within the Active Medium, fundamental to UQAT.
 
@@ -122,7 +121,7 @@ In UQAT, certain identities showcase intrinsic relationships among constants:
 
 - **Identity 1**:
   \[
-  \frac{e^2 \epsilon_o \mu_o}{ 4 \pi \tau \epsilon_o} = 1
+  \frac{e^2 { \mu_o }}{4 \pi  \tau } = 1
   \]
   
 - **Identity 2**:
@@ -136,9 +135,17 @@ In UQAT, certain identities showcase intrinsic relationships among constants:
   \]
 
 - **Identity 4**:
-  \[
-  \frac{e^2 { \mu_o }}{4 \pi  \tau } = 1
-  \]
+$$
+\frac{2 \pi ^2 \alpha  h}{c e^2 \mu_o}
+$$
+- **Identity 5**:
+$$
+\frac{e^2}{4 \pi  c^2 \tau  \text{$\epsilon $o}}=1
+$$
+- **Identity 6**:
+$$
+\frac{e^2}{2 \pi ^2 \alpha  c h \text{$\epsilon $o}}=1
+$$
 
 
 These identities are foundational in the framework of UQAT, revealing interconnectedness among the properties of the Active Medium and demonstrating how electromagnetic and gravitational properties align within this model.

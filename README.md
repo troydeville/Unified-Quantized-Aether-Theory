@@ -1,5 +1,26 @@
 # Unified Quantized Aether Theory (UQAT)
 
+The **Unified Quantized Aether Theory (UQAT)** redefines space as an **Active Medium** filled with quantized energy, aiming to unify electromagnetism, gravity, and nuclear forces through an interconnected framework of fundamental constants. Inspired by concepts from Tesla’s Dynamic Theory of Gravity, UQAT suggests that space is an energy-filled, resonant medium, facilitating all interactions.
+
+## Key Findings
+
+- **Emergence of Gravity**: Gravity is modeled as an emergent effect based on Aether properties, rather than an isolated force.
+- **Fine Structure Constant as a Bridge**: The fine structure constant $( \alpha )$ appears as a recurring element, linking various forces within the Active Medium.
+- **Gravitational Constant Derivation**: $( G )$ is expressed in terms of gravitational coupling and spatial properties of the Aether.
+
+## Repository Structure
+
+- **docs/**: Core theory documents, definitions, and theoretical interpretations.
+- **derivations/**: Detailed mathematical derivations of expressions used in UQAT.
+- **journal/**: Ongoing research notes and ideas related to UQAT.
+- **examples/**: Example calculations applying UQAT principles to real-world cases.
+
+## Contact and Contributions
+
+Feel free to contribute by opening discussions, raising issues, or submitting pull requests. This theory is a work in progress, and input is welcome.
+
+---
+
 ## Overview
 
 The **Unified Quantized Aether Theory (UQAT)** redefines the universe as a structured, quantized aether, an active medium permeated by fundamental constants that govern mass, charge, gravity, and space itself. Unlike traditional physics, which often treats space as a vacuum, **UQAT** proposes a dynamic aether with exact, intrinsic values that shape every interaction within it. This approach challenges established concepts, positioning **UQAT** as a new paradigm for understanding and unifying fundamental forces.
