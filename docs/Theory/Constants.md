@@ -19,7 +19,7 @@ UQAT decomposes established physical constants—such as the fine structure cons
 $$ \tau = \frac{e^2}{4 \pi \epsilon_0 c^2} \, \text{[kg m]} $$
 $ \tau \text{expressed also with units }$:
 $$
-\tau = \frac{e^2}{4 \pi \epsilon_0 c^2} \, [\frac{\text{C}^2 \text{H}}{m}]
+\tau = \frac{e^2}{4 \pi \epsilon_0 c^2} \, \frac{\text{C}^2 \text{H}}{\text{m}}
 $$
 
 - **Value**:

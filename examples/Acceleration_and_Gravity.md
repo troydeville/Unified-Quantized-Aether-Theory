@@ -3,19 +3,19 @@
 
 # Acceleration and Gravity in UQAT
 
-## Medium Relationships and Effects due to $ M_{\tau} $, $ Q_{\tau} $, and $ R_{\tau} $
+## Medium Relationships and Effects due to $ M $, $ Q_{\tau} $, and $R$
 ### Fundamental Acceleration Expression
 
-The Unified Quantized Aether Theory (UQAT) introduces an expression for acceleration exerted by an energy field with mass $ M_{\tau} $, charge $ Q_{\tau} $, and polar radius at a distance $ R_{\tau} $:
+The Unified Quantized Aether Theory (UQAT) introduces an expression for acceleration exerted by an energy field with mass $ M $, charge $ Q_{\tau} $, and polar radius at a distance $ R $:
 
 $$
-a_{\tau} = \frac{M_{\tau}^2}{R_{\tau} Q_{\tau}^2} \alpha_G \; \text{m/s}^2
+a_{\tau} = \frac{M^2}{R Q_{\tau}^2} \alpha_G \; \text{m/s}^2
 $$
 
 where:
-- $ M_{\tau} $: Effective mass in the medium.
+- $ M $: Effective mass in the medium.
 - $ Q_{\tau} $: Effective charge in the medium.
-- $ R_{\tau} $: Distance or radius within the medium.
+- $ R $: Distance or radius within the medium.
 - $ \alpha_{G} $: Gravitational interaction constant within UQAT.
 
 ### Acceleration Exertion from Celestial Bodies and Particles
@@ -39,13 +39,13 @@ where:
      - Charge-to-mass coupling constant: $ 69.123 \, \text{kg/V} $
 
 #### 3. **Moon's Acceleration**
-   - **Mass of Moon**: $ 7.346 \times 10^{22} \, \text{kg} $
-   - **Radius of Moon**: $ 1.7381 \times 10^6 \, \text{m} $
-   - **Charge Equivalent**: $ 1.12996 \times 10^{18} \, \text{C} $
-   - **Calculated Acceleration**: $ a_{\text{Moon}} = 1.62296 \, \text{m/s}^2 $
-   - **Additional Calculations**:
-     - Effective charge: $ 0.240056 \, \text{C} $
-     - Charge-to-mass coupling constant: $ 4.0019 \, \text{kg/V} $
+- **Mass of Moon**: $ 7.346 \times 10^{22} \, \text{kg} $
+- **Radius of Moon**: $ 1.7381 \times 10^6 \, \text{m} $
+- **Charge Equivalent**: $ 1.12996 \times 10^{18} \, \text{C} $
+- **Calculated Acceleration**: $ a_{\text{Moon}} = 1.62296 \, \text{m/s}^2 $
+- **Additional Calculations**:
+    - Effective charge: $ 0.240056 \, \text{C} $
+    - Charge-to-mass coupling constant: $ 4.0019 \, \text{kg/V} $
 
 #### 4. **Electron's Acceleration**
    - **Mass of Electron**: $ 9.1094 \times 10^{-31} \, \text{kg} $

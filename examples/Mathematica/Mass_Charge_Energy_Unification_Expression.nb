@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       154,          7]
-NotebookDataLength[      7552,        220]
-NotebookOptionsPosition[      6755,        197]
-NotebookOutlinePosition[      7213,        215]
-CellTagsIndexPosition[      7170,        212]
+NotebookDataLength[      8523,        236]
+NotebookOptionsPosition[      7532,        211]
+NotebookOutlinePosition[      7995,        229]
+CellTagsIndexPosition[      7952,        226]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -141,17 +141,14 @@ Cell[BoxData[{
        SuperscriptBox["\"\<Seconds\>\"", "2"]}]}], "]"}]}], ";"}], "\n", "\n", 
   RowBox[{"(*", " ", 
    RowBox[{"Earth", " ", "properties"}], " ", "*)"}]}], "\n", 
+ RowBox[{"massOfEarth", " ", "=", " ", 
+  RowBox[{"Quantity", "[", 
+   RowBox[{"5972200000000000000000000", ",", " ", "\"\<Kilograms\>\""}], 
+   "]"}]}], "\n", 
  RowBox[{
-  RowBox[{"massOfEarth", " ", "=", " ", 
+  RowBox[{"radiusOfEarth", " ", "=", " ", 
    RowBox[{"Quantity", "[", 
-    RowBox[{"5972200000000000000000000", ",", " ", "\"\<Kilograms\>\""}], 
-    "]"}]}], ";"}], "\n", 
- RowBox[{
-  RowBox[{
-   RowBox[{"radiusOfEarth", " ", "=", " ", 
-    RowBox[{"Quantity", "[", 
-     RowBox[{"6378100", ",", " ", "\"\<Meters\>\""}], "]"}]}], ";"}], 
-  "\n"}], "\n", 
+    RowBox[{"6378100", ",", " ", "\"\<Meters\>\""}], "]"}]}], "\n"}], "\n", 
  RowBox[{
   RowBox[{
    RowBox[{"aEarth", " ", "=", " ", 
@@ -168,8 +165,25 @@ Cell[BoxData[{
   3.940078262846281*^9, 3.940078312417612*^9}, {3.9400784106000004`*^9, 
   3.940078421998169*^9}, {3.9400784757933846`*^9, 3.9400786633089676`*^9}, {
   3.9400787006931343`*^9, 3.940079079335146*^9}, {3.9400792074528885`*^9, 
-  3.940079254957733*^9}, {3.9400793597056007`*^9, 3.9400795024007835`*^9}},
- CellLabel->"In[97]:=",ExpressionUUID->"bd3b1e8b-3bbe-fd4b-bab2-e5a00481dc72"],
+  3.940079254957733*^9}, {3.9400793597056007`*^9, 3.9400795024007835`*^9}, {
+  3.9400820080357094`*^9, 3.9400820162819557`*^9}, {3.9400845628256073`*^9, 
+  3.9400845679534035`*^9}, {3.940085666882084*^9, 3.940085667287716*^9}},
+ CellLabel->"In[33]:=",ExpressionUUID->"bd3b1e8b-3bbe-fd4b-bab2-e5a00481dc72"],
+
+Cell[BoxData[
+ TemplateBox[{
+  "5972200000000000000000000", "\"kg\"", "kilograms", "\"Kilograms\""},
+  "Quantity"]], "Output",
+ CellGroupingRules->{"GroupTogetherGrouping", 10000.},
+ CellChangeTimes->{3.9400856692996807`*^9},
+ CellLabel->"Out[45]=",ExpressionUUID->"b888036d-de17-5e49-86ff-9a1906c252b2"]
+}, Open  ]],
+
+Cell[BoxData[
+ TemplateBox[{"6378100", "\"m\"", "meters", "\"Meters\""},
+  "Quantity"]], "Output",
+ CellChangeTimes->{3.9400856693310947`*^9},
+ CellLabel->"Out[46]=",ExpressionUUID->"dd101163-ee83-7a42-9981-44a42799b675"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -185,18 +199,18 @@ Cell[BoxData[
    9.79844974062008007712342377451945757895`10.698970004336019, "Meters" 
     "Seconds"^(-2)]],
   Editable->False]], "Print",
- CellGroupingRules->{"GroupTogetherGrouping", 10000.},
  CellChangeTimes->{{3.9400790613750725`*^9, 3.9400791141537914`*^9}, 
    3.9400792204935303`*^9, 3.9400792569592857`*^9, {3.94007933534791*^9, 
    3.940079335436344*^9}, {3.940079400180977*^9, 3.9400794341615047`*^9}, 
-   3.940079506516117*^9},
+   3.940079506516117*^9, {3.940081938319481*^9, 3.940081938411831*^9}, 
+   3.9400820176487255`*^9, {3.94008456976577*^9, 3.94008457975403*^9}, {
+   3.9400852305286503`*^9, 3.9400852306324577`*^9}, 3.940085669355076*^9},
  CellLabel->
   "During evaluation of \
-In[97]:=",ExpressionUUID->"b9ea3188-f342-0c45-889e-0ef04149b68d"]
-}, Open  ]]
+In[33]:=",ExpressionUUID->"c10474bf-623a-ee42-9aa5-12ae7aa66ea8"]
 },
 WindowSize->{718.5, 729.75},
-WindowMargins->{{-1440, Automatic}, {3, Automatic}},
+WindowMargins->{{-878.25, Automatic}, {-150, Automatic}},
 CellContext->Notebook,
 Magnification:>1.3 Inherited,
 FrontEndVersion->"14.1 for Microsoft Windows (64-bit) (July 16, 2024)",
@@ -217,11 +231,13 @@ Notebook[{
 Cell[CellGroupData[{
 Cell[576, 22, 312, 5, 44, "Text",ExpressionUUID->"0c6e24ad-13cd-f04a-883a-2a16e3c50066",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
-Cell[891, 29, 4858, 142, 851, "Code",ExpressionUUID->"bd3b1e8b-3bbe-fd4b-bab2-e5a00481dc72",
+Cell[891, 29, 4965, 141, 851, "Code",ExpressionUUID->"bd3b1e8b-3bbe-fd4b-bab2-e5a00481dc72",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}],
-Cell[5752, 173, 987, 21, 37, "Print",ExpressionUUID->"b9ea3188-f342-0c45-889e-0ef04149b68d",
+Cell[5859, 172, 304, 6, 48, "Output",ExpressionUUID->"b888036d-de17-5e49-86ff-9a1906c252b2",
  CellGroupingRules->{"GroupTogetherGrouping", 10000.}]
-}, Open  ]]
+}, Open  ]],
+Cell[6178, 181, 221, 4, 44, "Output",ExpressionUUID->"dd101163-ee83-7a42-9981-44a42799b675"],
+Cell[6402, 187, 1126, 22, 37, "Print",ExpressionUUID->"c10474bf-623a-ee42-9aa5-12ae7aa66ea8"]
 }
 ]
 *)

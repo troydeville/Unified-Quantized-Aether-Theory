@@ -7,8 +7,8 @@ This work introduces a distinctive unifying equation within the **Unified Quanti
 In conventional physics, charge and mass are typically treated as independent properties. This equation, however, suggests that both may arise from a unified, quantized medium. This novel perspective offers a pathway to a unified description of fundamental interactions, indicating that charge, mass, and the speed of light are interdependent properties that emerge within an active medium rather than isolated values.
 
 ## The Equation
-$$\frac{e M}{\tau  (4 \pi  \text{$\epsilon $o})}=\frac{c^2 M}{e}$$
-- $m$: mass in the aether
+$$\frac{eM}{\tau  (4 \pi  \text{$\epsilon $o})}=\frac{c^2 M}{e}$$
+- $M$: mass in the aether
 ## Voltage or Charge per Capacitance Expression
 For a mass $M$, the following expressions are equivalent in units of volts ($V$) or coulombs per farad ($C/F$), highlighting their interchangeability within this framework:
 - $$\frac{M}{4 \pi \epsilon_o} \times \frac{e}{\tau}$$
