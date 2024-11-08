@@ -36,7 +36,7 @@ Here, each term represents a fundamental constant or quantity:
 - $M$: mass (for any given particle or body in this model)
 - $c$: speed of light in a vacuum
 - $\epsilon_o$: permittivity of free space
-- $\tau$: [quantized term representing the mass-charge ratio limit in the medium](../docs/Theory/Core_Constants.md)
+- $\tau$: [quantized term representing the mass-charge ratio limit in the medium](../docs/Theory/Constants.md)
 
 ## Significance
 This equation suggests that **charge, mass, and the speed of light are interconnected properties** within this active medium. In conventional physics, mass and charge are often treated as separate entities. However, in UQAT, this relationship implies that **mass and charge emerge from a unified framework**, revealing a potential bridge between gravitational and electromagnetic interactions.
@@ -95,7 +95,7 @@ Here, each term represents a fundamental constant or quantity:
 - $M$: mass (for any given particle or body in this model)
 - $c$: speed of light in a vacuum
 - $\epsilon_o$: permittivity of free space
-- $\tau$: [quantized term representing the mass-charge ratio limit in the medium](../docs/Theory/Core_Constants.md)
+- $\tau$: [quantized term representing the mass-charge ratio limit in the medium](../docs/Theory/Constants.md)
 
 ## Significance
 This equation suggests that **charge, mass, and the speed of light are interconnected properties** within this active medium. In conventional physics, mass and charge are often treated as separate entities. However, in UQAT, this relationship implies that **mass and charge emerge from a unified framework**, revealing a potential bridge between gravitational and electromagnetic interactions.

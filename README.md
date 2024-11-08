@@ -6,13 +6,15 @@ Inspired by concepts from Tesla’s Dynamic Theory of Gravity, UQAT suggests tha
 
 ---
 
-$$\text{E}(m) = mc^2 = \frac{e^2}{4 \pi \epsilon_o}  \frac{m}{\tau}$$
+
+### $$\text{E}(m) = mc^2 = \frac{e^2}{4 \pi \epsilon_o}  \frac{m}{\tau}$$
+[`Derivation_Energy_Unification.md`](derivations/Derivation_Energy_Unification.md)
 
 > $m$: The mass of a body.
 $c$: The speed of light.
 $e$: The elementary charge.
 $\epsilon_o$: The permittivity of the medium.
-$\tau$: [The distributed mass-charge space of the medium.](docs/Theory/Core_Constants.md)
+$\tau$: [The distributed mass-charge space of the medium.](docs/Theory/Constants.md)
 
 ---
 
@@ -21,11 +23,9 @@ $\tau$: [The distributed mass-charge space of the medium.](docs/Theory/Core_Cons
 Explore the following resources for deeper insights into **UQAT**:
 1. **[Theory Overview](docs/Theory/Overview.md)**: Overview of UQAT’s foundation, including redefined constants and relationships.
 
-2. **[Core Constants](docs/Theory/Core_Constants.md)**: Comprehensive list of exact UQAT constants.
+2. **[Constants](docs/Theory/Constants.md)**: Comprehensive list of exact UQAT constants.
 
-3. **[Key Equations](docs/Theory/Key_Equations.md)**: Step-by-step derivations of UQAT’s key equations.
-
-4. **[Applications](examples/Applications.md)**: Use cases and experiments, from propulsion to energy storage.
+3. **[Equations](docs/Theory/Equations.md)**: Step-by-step derivations of UQAT’s key equations.
 
 ---
 

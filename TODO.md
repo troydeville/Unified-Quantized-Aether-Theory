@@ -61,17 +61,17 @@
 
 ---
 
-## **[Core Constants](/docs/Core_Constants.md)**
+## **[Core Constants](/docs/Constants.md)**
 - [ ] List each core constant, including symbols, values, and units.
 - [ ] Provide explanations for each constant’s role in UQAT.
 - [ ] Cross-reference constants with sections in `Key Equations.md` and `Overview.md`.
 
 ---
 
-## **[Key Equations](/docs/Key_Equations.md)**
+## **[Key Equations](/docs/Equations.md)**
 - [ ] Include derivations for each primary equation.
 - [ ] Explain each step in the derivations.
-- [ ] Link equations to constants in `Core_Constants.md`.
+- [ ] Link equations to constants in `Constants.md`.
 - [ ] Add examples or applications of equations where relevant.
 
 ---
@@ -100,7 +100,7 @@
 ## **[README Enhancements](/docs/README.md)**
 - [ ] Write a clear introduction to UQAT.
 - [ ] Summarize main sections and guide users to start exploring the theory.
-- [ ] Provide links to key documents (e.g., `Introduction.md`, `Core_Constants.md`).
+- [ ] Provide links to key documents (e.g., `Introduction.md`, `Constants.md`).
 - [ ] Add a section on contributing or reporting issues if applicable.
 
 ---
