@@ -6,16 +6,19 @@
 ### Fundamental Acceleration Expression
 The **UQAT** framework introduces an expression for acceleration based on mass, charge, and distance from an energy source within the quantized aether:
 
-\[
+$$
 a_{\tau} = \frac{M_{\tau}^2}{R_{\tau} Q_{\tau}^2} \alpha_G \; \text{m/s}^2
-\]
+$$
 
 Where:
-- \( M_{\tau} \): Effective mass in the medium
-- \( Q_{\tau} \): Effective charge in the medium
-- \( R_{\tau} \): Distance or radius within the medium  
-- \( \alpha_G \): Gravitational interaction constant within **UQAT** 
-###### \[ \alpha_G = \frac{\pi}{4707} \, \frac{\text{A}^2 \cdot \text{m}^2}{\text{kg}^2} \]
+- \( M \): Mass
+- \( Q \): Charge
+- \( R \): Axial Radius
+- \( \alpha_{G} \): Gravitational interaction constant within **UQAT** 
+
+$$
+\alpha_G = \frac{\pi}{4707} \, \frac{\text{A}^2 \cdot \text{m}^2}{\text{kg}^2}
+$$
 
 
 ## Examples of Acceleration Exertion and Medium Effects

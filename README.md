@@ -1,6 +1,6 @@
 # Unified Quantized Aether Theory (UQAT)
 
-The **Unified Quantized Aether Theory (UQAT)** redefines space as an **Active Medium** filled with quantized energy, aiming to unify **electromagnetism**, **gravity**, and **nuclear forces** through an interconnected framework of fundamental constants.
+**UQAT** redefines space as an active medium structured with quantized properties.
 
 Inspired by concepts from Tesla’s Dynamic Theory of Gravity, UQAT suggests that space is an energy-filled, resonant medium, facilitating all interactions.
 
