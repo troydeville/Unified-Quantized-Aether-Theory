@@ -2,16 +2,11 @@
 <  **[UQAT](../../README.md)**
 > < **[docs](../Introduction.md)**
 
-# Unified Quantized Aether Theory Core Constants
-
-## Abstract
-The Unified Quantized Aether Theory (UQAT) introduces a framework that unifies the fundamental forces—electromagnetism, gravity, the strong nuclear force, and the weak nuclear force—by redefining space as an **Active Medium** filled with quantized energy. UQAT builds on concepts inspired by Tesla's Dynamic Theory of Gravity, suggesting that the vacuum of space is not empty but is an active, energy-filled medium through which all interactions occur.
-
-UQAT decomposes established physical constants—such as the fine structure constant, Planck’s constant, and the gravitational constant—into their most intrinsic elements, revealing relationships that unify electromagnetism, gravity, and nuclear forces. At the core lies the **Frequency Constant of the Active Medium** ($ \Psi $), representing the fundamental oscillatory behavior within this quantized structure and offering new interpretations of phenomena as resonant interactions.
+# Constants
 
 ---
 
-## Core Constants and Parameters of the Active Medium
+## Constants
 
 ### Quantized Mass-Charge Ratio Limit ($\tau$)
 - **Symbol**: $ \tau $

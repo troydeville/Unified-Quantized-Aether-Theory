@@ -1,5 +1,5 @@
 *Incomplete*
-# Derivation of Gravitational Constant \( G \) in UQAT
+# Gravitational Constant \( G \)
 
 ## Overview
 This file presents the derivation of the gravitational constant \( G \) within UQAT, where it is expressed as:

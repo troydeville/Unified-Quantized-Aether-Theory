@@ -1,6 +1,6 @@
 *Incomplete*
 
-# Derivation of Acceleration Function in UQAT
+# Acceleration Function
 
 $$
 a_{\tau} = \frac{M^2}{R Q_{\tau}^2} \alpha_G \; \text{m/s}^2

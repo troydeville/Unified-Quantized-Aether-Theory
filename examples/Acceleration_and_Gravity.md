@@ -1,12 +1,12 @@
 < **[UQAT](README.md)**
 
 
-# Acceleration and Gravity in UQAT
+# Acceleration and Gravity
 
 ## Medium Relationships and Effects due to $ M $, $ Q_{\tau} $, and $R$
 ### Fundamental Acceleration Expression
 
-The Unified Quantized Aether Theory (UQAT) introduces an expression for acceleration exerted by an energy field with mass $ M $, charge $ Q_{\tau} $, and polar radius at a distance $ R $:
+An expression for acceleration exerted by an energy field with mass $ M $, charge $ Q_{\tau} $, and spherical radius at a distance $ R $:
 
 $$
 \alpha_{\tau} = \frac{M^2}{R Q_{\tau}^2} \alpha_G \; \text{m/s}^2
@@ -80,5 +80,4 @@ where:
   This equation demonstrates how mass-energy relationships are influenced by the properties of the quantized medium.
 
 ### Summary
-
 The findings above showcase how UQAT’s acceleration function varies across different scales, from celestial bodies to subatomic particles, depending on their mass, charge, and effective radius. The relationships and constants presented here support the consistency of UQAT's principles, especially in defining acceleration and gravitational effects within the quantized medium.

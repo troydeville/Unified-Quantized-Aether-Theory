@@ -1,13 +1,10 @@
 # Unified Quantized Aether Theory (UQAT)
 
 **UQAT** redefines space as an active medium structured with quantized properties.
-
-Inspired by concepts from Tesla’s Dynamic Theory of Gravity, UQAT suggests that space is an energy-filled, resonant medium, facilitating all interactions.
-
 ---
 
 
-### $$\text{E}(m) = mc^2 = \frac{e^2}{4 \pi \epsilon_o}  \frac{m}{\tau}$$
+#### $$\text{E}(m) = mc^2 = \frac{e^2}{4 \pi \epsilon_o}  \frac{m}{\tau}$$
 [`Derivation_Energy_Unification.md`](derivations/Derivation_Energy_Unification.md)
 
 > $m$: The mass of a body.
@@ -15,17 +12,6 @@ $c$: The speed of light.
 $e$: The elementary charge.
 $\epsilon_o$: The permittivity of the medium.
 $\tau$: [The distributed mass-charge space of the medium.](docs/Theory/Constants.md)
-
----
-
-## Getting Started
-
-Explore the following resources for deeper insights into **UQAT**:
-1. **[Theory Overview](docs/Theory/Overview.md)**: Overview of UQAT’s foundation, including redefined constants and relationships.
-
-2. **[Constants](docs/Theory/Constants.md)**: Comprehensive list of exact UQAT constants.
-
-3. **[Equations](docs/Theory/Equations.md)**: Step-by-step derivations of UQAT’s key equations.
 
 ---
 
