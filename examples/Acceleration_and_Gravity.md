@@ -9,7 +9,7 @@
 The Unified Quantized Aether Theory (UQAT) introduces an expression for acceleration exerted by an energy field with mass $ M $, charge $ Q_{\tau} $, and polar radius at a distance $ R $:
 
 $$
-a_{\tau} = \frac{M^2}{R Q_{\tau}^2} \alpha_G \; \text{m/s}^2
+\alpha_{\tau} = \frac{M^2}{R Q_{\tau}^2} \alpha_G \; \text{m/s}^2
 $$
 
 where:

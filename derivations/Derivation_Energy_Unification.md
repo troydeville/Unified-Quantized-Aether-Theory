@@ -9,6 +9,9 @@ In conventional physics, charge and mass are typically treated as independent pr
 ## The Equation
 $$\frac{eM}{\tau  (4 \pi  \text{$\epsilon $o})}=\frac{c^2 M}{e}$$
 - $M$: mass in the aether
+- $\tau:  \frac{e^2}{4 \pi \epsilon_o c^2} \, \frac{\text{C}^2 \text{H}}{\text{m}}$
+
+
 ## Voltage or Charge per Capacitance Expression
 For a mass $M$, the following expressions are equivalent in units of volts ($V$) or coulombs per farad ($C/F$), highlighting their interchangeability within this framework:
 - $$\frac{M}{4 \pi \epsilon_o} \times \frac{e}{\tau}$$
